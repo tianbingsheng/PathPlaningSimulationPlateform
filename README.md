@@ -1,0 +1,2 @@
+# PathPlaningSimulationPlateform
+利用PyQt5搭建路径规划仿真平台，用于特殊交通环境下路径规划强化学习研究。
