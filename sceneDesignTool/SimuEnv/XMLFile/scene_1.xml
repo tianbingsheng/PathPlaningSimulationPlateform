@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SceneDesignTemplate remark="" mode="" scale="" name="">
+    <Boundary>
+        <point x="-310" y="-183"/>
+        <point x="678" y="-187"/>
+        <point x="678" y="381"/>
+        <point x="-312" y="389"/>
+    </Boundary>
+    <Barrier>
+        <Polygon position_y="13" rotation="0" name="" position_x="-5" color="0" type="3">
+            <point x="-12" y="131"/>
+            <point x="38" y="125"/>
+            <point x="39" y="165"/>
+            <point x="9" y="170"/>
+            <point x="-22" y="160"/>
+        </Polygon>
+        <Rect position_y="339" rotation="0" height="82" width="283" name="" position_x="171" color="0" type="1"/>
+        <Eclipse position_y="17" rotation="0" radius_x="19" radius_y="21" name="" position_x="-112" color="0" type="2"/>
+        <Eclipse position_y="-26" rotation="0" radius_x="20" radius_y="21" name="" position_x="239" color="0" type="2"/>
+        <Eclipse position_y="-114" rotation="0" radius_x="21" radius_y="21" name="" position_x="507" color="0" type="2"/>
+        <Rect position_y="63" rotation="0" height="60" width="25" name="" position_x="422" color="0" type="1"/>
+        <Rect position_y="-116" rotation="0" height="60" width="22" name="" position_x="137" color="0" type="1"/>
+    </Barrier>
+    <EclipseSite position_y="12" rotation="90" radius_x="10" radius_y="10" name="" id="2" position_x="599" color="4290050815" type="5"/>
+    <EclipseSite position_y="309" rotation="52" radius_x="10" radius_y="10" name="" id="1" position_x="-205" color="4290050815" type="5"/>
+    <Occupied position_y="327" rotation="0" height="60" width="50" name="" position_x="457" color="0" type="11"/>
+    <Occupied position_y="202" rotation="40" height="60" width="50" name="" position_x="353" color="0" type="11"/>
+    <Occupied position_y="207" rotation="39" height="60" width="50" name="" position_x="199" color="0" type="11"/>
+    <Occupied position_y="118" rotation="90" height="60" width="50" name="" position_x="600" color="0" type="11"/>
+    <Occupied position_y="13" rotation="90" height="60" width="50" name="" position_x="598" color="0" type="11"/>
+    <Occupied position_y="-75" rotation="68" height="60" width="50" name="" position_x="370" color="0" type="11"/>
+    <Occupied position_y="11" rotation="68" height="60" width="50" name="" position_x="114" color="0" type="11"/>
+    <Occupied position_y="-115" rotation="88" height="60" width="50" name="" position_x="205" color="0" type="11"/>
+    <Occupied position_y="-118" rotation="143" height="60" width="50" name="" position_x="-41" color="0" type="11"/>
+    <Occupied position_y="-110" rotation="139" height="60" width="50" name="" position_x="-163" color="0" type="11"/>
+    <Occupied position_y="139" rotation="269" height="60" width="50" name="" position_x="-250" color="0" type="11"/>
+    <Occupied position_y="55" rotation="90" height="60" width="50" name="" position_x="-250" color="0" type="11"/>
+    <Occupied position_y="300" rotation="37" height="60" width="50" name="" position_x="-82" color="0" type="11"/>
+    <Occupied position_y="310" rotation="52" height="60" width="50" name="" position_x="-205" color="0" type="11"/>
+    <Path name="test1" id="1" color="4278190080">
+        <StartPoint angle="0" eclipseSite_id="1"/>
+        <WayPoint/>
+        <EndPoint angle="81" eclipseSite_id="2"/>
+    </Path>
+</SceneDesignTemplate>
